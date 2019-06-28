@@ -1,0 +1,17 @@
+{
+  "author": "Trey Shugart <treshugart@gmail.com>",
+  "dependencies": {
+    "conartist": "^0.29.1",
+    "execa": "^2.0.1",
+    "fullname": "^4.0.0",
+    "npm-user": "^4.1.0"
+  },
+  "description": "Standard generator for NodeJS projects.",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "conartist-node",
+  "version": "1.0.0",
+  "devDependencies": {
+    "np": "^5.0.3"
+  }
+}
