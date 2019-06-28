@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const execa = require("execa");
 const getFullname = require("fullname");
 const getNpmUser = require("npm-user");
