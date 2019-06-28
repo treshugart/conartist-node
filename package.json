@@ -1,6 +1,6 @@
 {
   "author": "Trey Shugart <treshugart@gmail.com>",
-  "bin": ".",
+  "bin": "index.js",
   "dependencies": {
     "conartist": "^0.29.1",
     "execa": "^2.0.1",
