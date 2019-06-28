@@ -50,7 +50,8 @@ module.exports = require("conartist").bin({
             devDependencies: {
               np: "latest"
             },
-            name: path.basename(cwd)
+            name: path.basename(cwd),
+            version: "0.0.0"
           }
         },
         {
