@@ -1,5 +1,6 @@
 {
   "author": "Trey Shugart <treshugart@gmail.com>",
+  "bin": ".",
   "dependencies": {
     "conartist": "^0.29.1",
     "execa": "^2.0.1",
