@@ -7,9 +7,11 @@
     "npm-user": "^4.1.0"
   },
   "description": "Standard generator for NodeJS projects.",
-  "devDependencies": { "np": "^5.0.3" },
+  "devDependencies": {
+    "np": "^5.0.3"
+  },
   "license": "MIT",
   "main": "index.js",
   "name": "conartist-node",
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
