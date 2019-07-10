@@ -34,7 +34,7 @@ module.exports = async ({ cwd }) => {
         data: {
           author: fullname + (email ? ` <${email}>` : ""),
           devDependencies: {
-            np: "latest"
+            np: "*"
           },
           engines: {
             node: `^${getVersion(nodeInfo.version)}`,
