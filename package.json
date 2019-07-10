@@ -5,14 +5,14 @@
     "conartist": "^0.29.1",
     "execa": "^2.0.1",
     "fullname": "^4.0.0",
+    "node-fetch": "^2.6.0",
     "npm-user": "^4.1.0"
   },
   "description": "Standard generator for NodeJS projects.",
-  "devDependencies": {
-    "np": "^5.0.3"
-  },
+  "devDependencies": { "np": "^5.0.3" },
   "license": "MIT",
   "main": "index.js",
   "name": "conartist-node",
-  "version": "0.0.5"
+  "version": "0.0.5",
+  "engines": { "node": "^12.6.0", "npm": "^6.9.0" }
 }
